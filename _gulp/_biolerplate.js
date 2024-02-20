@@ -2,8 +2,8 @@
  *
  *	[SOW] Smarty
  *
- *	@author 		
- *					
+ *	@author 		Dorin Grigoras
+ *					www.stepofweb.com
  *
  *	@Dependencies
  *

@@ -2,8 +2,8 @@
  *
  *	[GULP] DEPLOY
  *
- *	@author 		
- *					
+ *	@author 		Dorin Grigoras
+ *					www.stepofweb.com
  *
  *	@Dependencies
  *

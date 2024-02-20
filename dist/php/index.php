@@ -14,8 +14,8 @@
  	 * 			ob_start('ob_gzhandler'); require 0 preouput (sow.init.php)
  	 *
  	 *
-	 *	@author 		
-	 *					
+	 *	@author 		Dorin Grigoras
+	 *					www.stepofweb.com
  	 *
 	********************************************************** **/
 	require_once('config.inc.php');

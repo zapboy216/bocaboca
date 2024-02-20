@@ -2,8 +2,8 @@
  *
  *	[GULP] SEED
  *
- *	@author 		
- *					
+ *	@author 		Dorin Grigoras
+ *					www.stepofweb.com
  *
  *	@Dependencies
  *

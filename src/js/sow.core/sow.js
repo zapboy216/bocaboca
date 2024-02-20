@@ -2,8 +2,8 @@
  *
  *  [SOW] Stepofweb Controller
  *
- *  @author 
- *          
+ *  @author Dorin Grigoras
+ *          www.stepofweb.com
  *
  *  @version 1.1.0
 

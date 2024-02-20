@@ -2,7 +2,7 @@
  *
  *  [SOW] Vendor Bilerplate : STARTUP|EXAMPLE
  *
- *   My Name
+ *  @author         My Name
  *                  www.mysite.com
  *
  *  @Dependency     -

@@ -2,8 +2,8 @@
  *
  *	[GULP] UTILS
  *
- *	@author 		
- *					
+ *	@author 		Dorin Grigoras
+ *					www.stepofweb.com
  *
  *	@Dependencies
  *

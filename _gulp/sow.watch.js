@@ -2,8 +2,8 @@
  *
  *	[GULP] WATCH
  *
- *	@author 		
- *					
+ *	@author 		Dorin Grigoras
+ *					www.stepofweb.com
  *
  *	@Dependencies
  *

@@ -2,8 +2,8 @@
  *
  *	[GULP] CLEAN
  *
- *	@author 		
- *					
+ *	@author 		Dorin Grigoras
+ *					www.stepofweb.com
  *
  *	@Dependencies
  *

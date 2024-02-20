@@ -825,6 +825,7 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-thumbs__list a {
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     background-color: rgba(0, 0, 0, .1);
     background-position: center center;

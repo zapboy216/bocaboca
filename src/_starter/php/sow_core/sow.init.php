@@ -4,8 +4,8 @@
  	 *	@Init
  	 *
  	 *
-	 *	@author 		
-	 *					
+	 *	@author 		Dorin Grigoras
+	 *					www.stepofweb.com
  	 *
 	********************************************************** **/
 

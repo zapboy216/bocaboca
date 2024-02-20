@@ -2,8 +2,8 @@
  *
  *	[GULP] HTML : REPLACE
  *
- *	@author 		
- *					
+ *	@author 		Dorin Grigoras
+ *					www.stepofweb.com
  *
  *	@Dependencies
  *
